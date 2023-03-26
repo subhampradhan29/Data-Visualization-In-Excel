@@ -1,5 +1,5 @@
 # Data-Visualization-In-Excel
 
-## Interactive Excel Dashboard
+## Interactive Excel Sales Dashboard
 
 Video: https://youtu.be/3ORC96OTESk
