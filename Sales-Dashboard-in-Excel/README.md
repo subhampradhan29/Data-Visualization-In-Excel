@@ -4,7 +4,7 @@
 
 ### Video: https://youtu.be/3ORC96OTESk
 ### Problem Statement
-Design a sales dashboard that analyzes the sales based on various product categories. The company wants to add user control for product category so that users can select a category and can see the trend month-wise and product-wise accordingly.
+Design a sales dashboard that analyzes the sales based on various given factors. The company wants to add user control for a detailed view.
 
 1. Use the saved Sample E-Commerce database.
 2. Prepare a table of Sales and Profit month-wise in a working sheet.
