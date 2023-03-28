@@ -6,7 +6,7 @@
 ### Problem Statement
 Design a sales dashboard that analyzes the sales based on various given factors. The company wants to add user control for a detailed view.
 
-1. Use the saved Sample E-Commerce database.
+1. Use the given sales dataset.
 2. Prepare a table of Sales and Profit month-wise in a working sheet.
 3. Prepare the sales table region-wise in the working sheet.
 4. Create User Control Combo box for Product Category, Order-Priority & Region.
