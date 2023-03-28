@@ -28,7 +28,7 @@ Air Cargo is an aviation company that provides air transportation services for p
 4. Creating a pie chart to show the distribution by the type of travel.
 5. Creating card to show:
  
-  a. Total number of passengers.
+     a. Total number of passengers.
  
   b. Average flight distance.
  
