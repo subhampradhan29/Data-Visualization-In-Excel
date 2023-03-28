@@ -27,24 +27,25 @@ Air Cargo is an aviation company that provides air transportation services for p
 3. Creating a pie chart to show the distribution by gender.
 4. Creating a pie chart to show the distribution by the type of travel.
 5. Creating card to show:
- a. Total number of passengers.
  
- b. Average flight distance.
+  a. Total number of passengers.
  
- c. Average cleanliness rating.
+  b. Average flight distance.
  
- d. Average inflight service rating. 
+  c. Average cleanliness rating.
  
- e. Average seat comfort rating.
+  d. Average inflight service rating. 
  
- f. Average check-in service rating.
+  e. Average seat comfort rating.
+ 
+  f. Average check-in service rating.
 
- g. Average on-board service rating.
+  g. Average on-board service rating.
 
- h. Average Ease of booking rating.
+  h. Average Ease of booking rating.
 
- i. Maximum inflight service rating.
+  i. Maximum inflight service rating.
 
- j. Total number of passengers who were disloyal customers but satisfied.
+  j. Total number of passengers who were disloyal customers but satisfied.
 
- h. Total number of passengers who were loyal customers but neutral or dissatisfied.   
+  h. Total number of passengers who were loyal customers but neutral or dissatisfied.   
