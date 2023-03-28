@@ -2,8 +2,6 @@ use `Flight Details`;
 select * from `customer details`;
 select * from `extra details`;
 
-select distinct count(gender) from `customer details`;
-
 select count(`Customer Type`) from `customer details` where `Customer Type` = 'disloyal customer'; -- There are '1835' disloyal customers.
 select count(`Customer Type`) from `customer details` where `Customer Type` = 'loyal customer'; -- There are'8366' loyal customers.
 
@@ -30,8 +28,8 @@ create table `customer info`(select cr.*, ex.`Inflight wifi service`, ex.`Ease o
 ex.`Baggage handling`, ex.`Checkin service`, ex.`Inflight Service`, ex.Cleanliness, ex.`Departure Delay in Minutes`, ex.`Arrival Delay in Minutes`
 from `customer details` cr
 inner join `extra details` ex
-on cr.id = ex.id);
+on cr.id = ex.id); -- created a table by joining two tables using inner join command. 
 
-create table `travelled under 2500 km` (select * from `customer info` where `Flight Distance` < 2500);
+create table `travelled under 2500 km` (select * from `customer info` where `Flight Distance` < 2500); -- creating a new table that contains passenger's data who travlled under 2500 km.
 
 select * from `travelled under 2500 km`;
