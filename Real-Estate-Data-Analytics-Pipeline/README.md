@@ -1,4 +1,6 @@
 # Real-Estate-Data-Analytics-Pipeline
+## Video Link: https://www.youtube.com/watch?v=tmDPqa1UuuM
+
 Harry is a well-known property dealer from San Francisco, California whose objective is to buy and sell properties. Now, he wants to buy properties in Oakland. As he has very less idea about the properties in that particular city, he needs a proper understanding of the properties and factors related to it. 
 
 Because of it, he is taking an online survey from citizens who want to sell their property, through an app. 
