@@ -30,22 +30,22 @@ Air Cargo is an aviation company that provides air transportation services for p
  
      a. Total number of passengers.
  
-  b. Average flight distance.
+     b. Average flight distance.
  
-  c. Average cleanliness rating.
+     c. Average cleanliness rating.
  
-  d. Average inflight service rating. 
+     d. Average inflight service rating. 
  
-  e. Average seat comfort rating.
+     e. Average seat comfort rating.
  
-  f. Average check-in service rating.
+     f. Average check-in service rating.
 
-  g. Average on-board service rating.
+     g. Average on-board service rating.
 
-  h. Average Ease of booking rating.
+     h. Average Ease of booking rating.
 
-  i. Maximum inflight service rating.
+    i. Maximum inflight service rating.
 
-  j. Total number of passengers who were disloyal customers but satisfied.
+    j. Total number of passengers who were disloyal customers but satisfied.
 
-  h. Total number of passengers who were loyal customers but neutral or dissatisfied.   
+    h. Total number of passengers who were loyal customers but neutral or dissatisfied.   
