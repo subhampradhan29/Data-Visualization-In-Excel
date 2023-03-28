@@ -24,6 +24,7 @@ The problem is to identify the apps that are going to be good for Google to prom
     ii. Remove ‘+’, ‘,’ from the field, convert it to integer
 4. Price field is a string and has $ symbol. Remove ‘$’ sign, and convert it to numeric.
 5. Sanity Check:
+  
   a.Average rating should be between 1 and 5 as only these values are allowed on the play store. Drop the rows that have a value outside this range.
   
   b. Reviews should not be more than installs as only those who installed can review the app. If there are any such records, drop them.
