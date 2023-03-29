@@ -1,9 +1,10 @@
 # Airline-Passenger's-Sentiment-Analysis-using-MySQL-&-Power BI
-## Problem Statement
+## Video Link: https://www.youtube.com/watch?v=fGC6eJrwg3w
+### Problem Statement
 
 Air Cargo is an aviation company that provides air transportation services for passengers and freight. Air Cargo uses its aircraft to provide different services with the help of partnerships or alliances with other airlines. The company wants to analyse the sentiment of regular passengers and other scenarios to improve the facilities provided by them.
 
-#### Perform data analysis using MySQL answering to the below questions:
+#### Perform data analysis using MySQL answering the below questions:
 
 1. What is the total number of disloyal customers?
 2. What is the total number of loyal customers?
@@ -22,12 +23,12 @@ Air Cargo is an aviation company that provides air transportation services for p
 14.  Create a new table that contains passenger data who travelled under 2500 km.
 
 #### Create an interactive Power BI report by:
-
-1. Creating a slicer to filter visualizations on the basis of class.
-2. Creating cards to show the maximum flight distance & minimum flight distance.
-3. Creating a pie chart to show the distribution by gender.
-4. Creating a pie chart to show the distribution by the type of travel.
-5. Creating card to show:
+1. Connecting to the mysql database & loading the "travelled under 2500 km" table.
+2. Creating a slicer to filter visualizations on the basis of class.
+3. Creating cards to show the maximum flight distance & minimum flight distance.
+4. Creating a pie chart to show the distribution by gender.
+5. Creating a pie chart to show the distribution by the type of travel.
+6. Creating card to show:
  
      a. Total number of passengers.
  
