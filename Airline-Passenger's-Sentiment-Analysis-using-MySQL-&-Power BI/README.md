@@ -1,6 +1,6 @@
 # Airline-Passenger's-Sentiment-Analysis-using-MySQL-&-Power BI
 ## Video Link: https://www.youtube.com/watch?v=fGC6eJrwg3w
-## DAX Function: https://youtu.be/NJoyUah6XcA
+## DAX IF function: https://youtu.be/NJoyUah6XcA
 ### Problem Statement
 
 Air Cargo is an aviation company that provides air transportation services for passengers and freight. Air Cargo uses its aircraft to provide different services with the help of partnerships or alliances with other airlines. The company wants to analyse the sentiment of regular passengers and other scenarios to improve the facilities provided by them.
