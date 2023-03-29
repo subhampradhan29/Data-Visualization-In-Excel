@@ -17,7 +17,8 @@ Air Cargo is an aviation company that provides air transportation services for p
 10. What is the total number of passengers in Eco Plus, Business & Eco classes?
 11. What is the total number of passengers who were disloyal customers and were satisfied?
 12. What is the total number of passengers who were loyal customers but dissatisfied?
-13. Created a new table by joining two tables using the inner join command to add columns from the extra details table Inflight wifi service, Ease of Online booking, Food and drink, Seat comfort, Inflight entertainment, Baggage handling, Checkin service, Inflight Service, Cleanliness, Departure Delay in Minutes & Arrival Delay in Minutes.
+13. Create a view with only business class customers along with the customer type & satisfaction columns.
+14. Created a new table by joining two tables using the inner join command to add columns from the extra details table Inflight wifi service, Ease of Online booking, Food and drink, Seat comfort, Inflight entertainment, Baggage handling, Checkin service, Inflight Service, Cleanliness, Departure Delay in Minutes & Arrival Delay in Minutes.
 14.  Create a new table that contains passenger data who travelled under 2500 km.
 
 #### Create an interactive Power BI report by:
