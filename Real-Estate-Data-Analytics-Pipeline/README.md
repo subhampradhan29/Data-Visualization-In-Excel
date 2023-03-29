@@ -19,7 +19,7 @@ After 7 days of the survey, he will take the decision whether to proceed forward
 
  He gave me a set of questions that he needs answers to. The questions are :
 
-1. The number of properties built each year.
+1. What is the number of properties built each year?
 2. What are the different types of Paved driveways? Show the percentage.
 3. What is the average sale price of properties on the basis of different lot shapes?
 4. What is the average sale price of properties built each year?
