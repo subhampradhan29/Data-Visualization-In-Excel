@@ -20,7 +20,7 @@ select distinct Class, count(Class) as `No. of Passengers` from `customer detail
 select count(`Customer Type`) as `Disloyal customers who were satisfied` from `customer details` where satisfaction = 'satisfied' and `customer type` = 'disloyal Customer'; -- There were 427 disloyal customers who were satisfied.
 select count(`Customer Type`) as `Loyal Customers who were disssatisfied` from `customer details` where satisfaction = 'Neutral or dissatisfied' and `customer type` = 'loyal Customer'; -- There were 4392 loyal customers who were dissatisfied.
 
-create view `business class customers` as select Class, `Customer Type`, satisfaction from `customer details`;
+create view `business class customers` as select Class, `Customer Type`, satisfaction from `customer details`; -- created a view with only business class customers along with the customer type & satisfaction columns.
 
 select * from `extra details`;
 
@@ -30,6 +30,6 @@ from `customer details` cr
 inner join `extra details` ex
 on cr.id = ex.id); -- created a table by joining two tables using inner join command. 
 
-create table `travelled under 2500 km` (select * from `customer info` where `Flight Distance` < 2500); -- creating a new table that contains passenger's data who travlled under 2500 km.
+create table `travelled under 2500 km` (select * from `customer info` where `Flight Distance` < 2500); -- created a new table that contains passenger's data who travlled under 2500 km.
 
 select * from `travelled under 2500 km`;
