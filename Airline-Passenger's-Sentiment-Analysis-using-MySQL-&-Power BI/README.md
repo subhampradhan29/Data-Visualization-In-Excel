@@ -1,5 +1,5 @@
 # Airline-Passenger's-Sentiment-Analysis-using-MySQL-&-Power BI
-## Video Link: https://www.youtube.com/watch?v=fGC6eJrwg3w
+## Project on Youtube: https://youtu.be/w4lbmIVc6II
 ## DAX function: https://youtu.be/NJoyUah6XcA
 ### Problem Statement
 
